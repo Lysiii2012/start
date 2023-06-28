@@ -91,9 +91,9 @@ h1{
   /* box-shadow: 1px 1px 11px #054b40; */
   text-align: center;
   border: 7px solid #322955;
-  position: absolute;
+  /* position: absolute;
   bottom: calc(50% - 120px);
-  right: 40px;
+  right: 40px; */
 }
 #form-field-name, #form-field-email{
   width: 100%;
